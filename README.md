@@ -29,4 +29,3 @@ Feel free to check out my repos, connect on LinkedIn, or reach out via email. Iâ
 
 ---
 
-![Jeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeshanchhabra&show_icons=true&theme=radical)
